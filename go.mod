@@ -10,7 +10,7 @@ require (
 	github.com/mattn/go-isatty v0.0.14
 	github.com/pelletier/go-toml/v2 v2.0.1
 	github.com/stretchr/testify v1.7.1
-	github.com/ugorji/go/codec v1.2.7
+	github.com/ugorji/go/codec v1.2.12
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/yaml.v2 v2.4.0
